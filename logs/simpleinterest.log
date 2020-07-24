@@ -1,0 +1,11 @@
+25-02-20 20:39:29 INFO  Simple:8 - Calculating Simple Interest
+25-02-20 20:39:29 INFO  Compound:9 - Calculating Compound Interest
+25-02-20 20:39:29 INFO  Compound:13 - Returning Compound interest
+25-02-20 20:41:16 INFO  Simple:8 - Calculating Simple Interest
+25-02-20 20:41:16 INFO  Compound:9 - Calculating Compound Interest
+25-02-20 20:41:16 INFO  Compound:13 - Returning Compound interest
+25-02-20 20:53:27 INFO  Simple:8 - Calculating Simple Interest
+25-02-20 20:53:27 INFO  Compound:9 - Entering Compound Interest function
+25-02-20 20:53:27 INFO  Compound:13 - Leaving Compound interest function
+25-02-20 20:53:36 INFO  HouseCost:8 - Entering cost of house function
+25-02-20 20:53:36 INFO  HouseCost:26 - Leaving cost function
